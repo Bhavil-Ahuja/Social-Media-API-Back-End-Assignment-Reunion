@@ -22,7 +22,7 @@
 
 - Adding/Deleting a post from your account
 
-![image](https://user-images.githubusercontent.com/76178941/198877727-73294a38-4ec8-4133-994f-267dd5718ff6.png)
+![image](https://user-images.githubusercontent.com/76178941/198878438-c615b533-4c5e-43c7-84ca-84527927aaf6.png)
 
 - Like/Dislike other's post
 
