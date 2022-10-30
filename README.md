@@ -26,21 +26,19 @@
 
 - Like/Dislike other's post
 
-![image](https://user-images.githubusercontent.com/76178941/198877759-77d84171-f006-43df-82bc-b43f169d1296.png)
-
-![image](https://user-images.githubusercontent.com/76178941/198877776-c8c8ee84-7f18-42bb-bec5-99334315eaaf.png)
+![image](https://user-images.githubusercontent.com/76178941/198878481-8692a7ae-1eb8-403f-a3d4-f79d760825a9.png)
 
 - Comment on other's post
 
-![image](https://user-images.githubusercontent.com/76178941/198877796-98a74358-d618-4ed3-916e-ebdea7e69dc8.png)
+![image](https://user-images.githubusercontent.com/76178941/198878512-7d9e7eb2-ee04-474b-a44b-19bc10a8f9c5.png)
 
 - Fetch a post with a given ID
 
-![image](https://user-images.githubusercontent.com/76178941/198877831-1377cc83-dfdf-456c-a27d-42594a6d5aab.png)
+![image](https://user-images.githubusercontent.com/76178941/198878540-384bd7c6-4f99-420d-9ca8-cb1ab4443181.png)
 
 - Fetch all the posts available on the social media so far
 
-![image](https://user-images.githubusercontent.com/76178941/198877847-bc36a3b2-6a7e-4da0-8e8c-a816064716c0.png)
+![image](https://user-images.githubusercontent.com/76178941/198878567-b8b975d4-d360-4ac4-a6fa-34d2d59ab22f.png)
 
 ## View of the Database
 
