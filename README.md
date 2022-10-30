@@ -16,6 +16,10 @@
 
 ![image](https://user-images.githubusercontent.com/76178941/198877634-791061c2-1b8c-40f2-869f-ab811330414e.png)
 
+- Fetch the current account details
+
+![image](https://user-images.githubusercontent.com/76178941/198880466-af487d9b-6196-4b0d-9abc-d9393990af4b.png)
+
 - Follow/unfollow each other using the user ID
 
 ![image](https://user-images.githubusercontent.com/76178941/198878392-66be9208-3a49-41a0-b544-ce601b917916.png)
