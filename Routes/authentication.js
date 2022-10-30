@@ -22,24 +22,4 @@ router.post("/authenticate", async (req, res) => {
 
 });
 
-router.post("/register", async (req, res) => {
-    const { name, email, password } = req.body;
-    if (!name || !email || !password) {
-        res.status(400);
-        res.json("Invalid credentials");
-    }
-    const user = await Profile.create({
-        name: name,
-        email: email,
-        password: password
-    });
-    if (user) {
-        req.session.user = email;
-        req.session.name = name;
-    } else {
-        res.status(400);
-        res.json("Profile creation unsuccessful!");
-    }
-});
-
 module.exports = router;
