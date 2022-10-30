@@ -18,7 +18,7 @@
 
 - Follow/unfollow each other using the user ID
 
-![image](https://user-images.githubusercontent.com/76178941/198877683-881776f2-edd5-47ae-af6d-73471aa6c262.png)
+![image](https://user-images.githubusercontent.com/76178941/198878392-66be9208-3a49-41a0-b544-ce601b917916.png)
 
 - Adding/Deleting a post from your account
 
